@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gato.BL", "Gato.BL\Gato.BL.csproj", "{BA5B6558-E60E-4999-B850-AC45215F60FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gato.Tests", "gato.Tests\gato.Tests.csproj", "{6DCA2F1B-1442-43AC-AC70-64F5BB08AC7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5B6558-E60E-4999-B850-AC45215F60FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5B6558-E60E-4999-B850-AC45215F60FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5B6558-E60E-4999-B850-AC45215F60FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5B6558-E60E-4999-B850-AC45215F60FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCA2F1B-1442-43AC-AC70-64F5BB08AC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCA2F1B-1442-43AC-AC70-64F5BB08AC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCA2F1B-1442-43AC-AC70-64F5BB08AC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCA2F1B-1442-43AC-AC70-64F5BB08AC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {380DC773-097A-484E-84DF-BD765814BB4F}
+	EndGlobalSection
+EndGlobal
